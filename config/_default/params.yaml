@@ -14,16 +14,16 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: 'Researcher named Orjan Ameye at the University of Konstanz.'
+    twitter: 'OrjanAmeye'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-CPHDFQL1QQ'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
+    google: 'Bhl7mMlFZKqx2U0A2Ob6-eSffTc38xtZyQSY-WyF4xA'
     baidu: ''
 
 # Site header
@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: 'Your Name'
+      text: 'Orjan Ameye'
 
 # Site footer
 footer:
